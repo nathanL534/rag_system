@@ -2,6 +2,8 @@
 
 This repository is dedicated to explaining my RAG system. 
 
+***PLEASE NOTE THE BACKEND IS THE ONLY THING HOSTED LOCALLY, THE FRONTEND IS HOSTED ON VERCEL, I DID THIS SO NO MATTER WHAT THE LINK WILL NOT BE BROKEN AND U CAN AT LEAST VISIT THE FRONTEND PAGE IF YOU GET AN ERROR LOGGING IN ITS MOST LIKELY BECAUSE THE BACKEND IS DOWN OR IM WORKING ON IT***
+
 
 **Note**: This is a private project. This repository contains documentation only to showcase my work for portfolio purposes. The source code remains private.
 
