@@ -7,7 +7,8 @@ This repository is dedicated to explaining my RAG system.
 ## I DID THIS SO NO MATTER WHAT THE LINK WILL NOT BE BROKEN AND U CAN AT LEAST VISIT THE FRONTEND PAGE IF YOU GET AN ERROR LOGGING IN ITS MOST LIKELY BECAUSE THE BACKEND IS DOWN OR IM WORKING ON IT
 
 
-YOU CAN VISIT THE SITE HERE: 
+YOU CAN VISIT THE SITE HERE: [EXTRACONTEXT]([https://your-url.com](https://extracontext.vercel.app/login))
+
 
 **Note**: This is a private project. This repository contains documentation only to showcase my work for portfolio purposes. The source code remains private.
 
