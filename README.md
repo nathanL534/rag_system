@@ -10,8 +10,7 @@ This repository is dedicated to explaining my RAG system.
 YOU CAN VISIT THE SITE HERE:  [EXTRACONTEXT](https://www.extracontext.dev)
 
 
-# DEMO
-
+[![Demo video]([https://youtu.be/e8HGR51ijFc)](https://youtu.be/VIDEO_ID)]
 
 
 **Note**: This is a private project. This repository contains documentation only to showcase my work for portfolio purposes. The source code remains private.
